@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/mbrlabs/Lorien/main/images/lorien.png" align="left"/>
 
 # Lorien
+
 <p>
     <a href="https://github.com/mbrlabs/Lorien/actions">
         <img src="https://github.com/mbrlabs/Lorien/workflows/build/badge.svg" alt="Build Passing" />
@@ -17,6 +18,7 @@ Lorien is an **infinite canvas drawing/note-taking app that is focused on perfor
 ⚠ **This is very much a WIP and still a bit rough around the edges** ⚠. The savefile format *might* also change in the future. Contributions (be it bug reports, code, art or [translations](docs/i18n.md)) are very welcome.
 
 ## Features as of v0.6.0-dev:
+
 - Infinite canvas
 - Infinite undo/redo
 - (Almost) Infinite zoom
@@ -35,17 +37,20 @@ Lorien is an **infinite canvas drawing/note-taking app that is focused on perfor
 - Localizations: English, German, Italian, Korean, Russian, Spanish, Turkish, Brazilian Portuguese, Chinese
 
 ## Download
+
 You can download the latest stable releases on [Github](https://github.com/mbrlabs/Lorien/releases). 
 
 If you want to check out the bleeding edge main branch without building the project yourself you can also check out the [CI builds](https://github.com/mbrlabs/Lorien/actions). But make sure to backup your files and be prepared for bugs if you do that.
 
 ## More information
+
 - [Contributing Guide](docs/contributing.md)
 - [Localization](docs/i18n.md)
 - [Changelog](docs/changelog.md)
 - [Roadmap](docs/roadmap.md)
 
 ## Credits
+
 - Brush stroke antialiasing: [godot-antialiased-line2d](https://github.com/godot-extended-libraries/godot-antialiased-line2d)
 - Icons used for the UI: [Remix Icon](https://remixicon.com/)
 - Blurred background image of demo screenshot: https://unsplash.com/photos/nO0V_T0g2fM
